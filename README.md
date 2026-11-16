@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tosin-afolabi
 - 👀 I’m interested in Data Analysis/ Data Engineering 
-- 🌱 working on https://versich.com
 - 💞️ I’m looking to collaborate on custom websites and mobile app development
 - 📫 How to reach me samuel.tafolabi@gmail.com
 <!---
